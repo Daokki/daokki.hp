@@ -30,7 +30,7 @@ header nav ul li a {
 
 .hero-section {
     background-image: url('./IMG_4206.jpg'); /* または './IMG_4206.JPG' */
-    background-size: cover;
+    background-size: contain;
     color: white;
     text-align: center;
     padding: 100px 20px;
